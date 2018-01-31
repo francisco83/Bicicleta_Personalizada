@@ -1,0 +1,26 @@
+#padre{
+  height: 500px;
+}
+#hijo{
+    text-align: left;    
+  }
+
+#padre img
+{
+ /* left: 200px;*/
+ position: absolute;
+}
+   
+#hijo img
+{
+     position: absolute;  
+}
+
+div{
+/* border:1px solid #000000; */
+}
+
+.cuadro_colores{
+    width: 40px; 
+    height: 40px;
+}
